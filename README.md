@@ -20,8 +20,8 @@ Analytical problem solver with a strong Statistics background and a growing expe
 ## 🧾 Certifications  
 - **IBM Certified Python for Data Science** — [Cognitive Class](https://www.credly.com/badges/ba6377e4-c059-43e9-87bb-340b03248385/linked_in_pro) *📅(Jun 2025)*  
 - **Microsoft Certified: Business Analytics with Excel** — [Simplilearn](https://simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiI2NjQiLCJjZX) *📅(Jun 2025)*  
-- **Jobberman Soft Skills**  * Coursera * 75XH6BRGSEQS *  *📅(Oct 2023)*  
-- **National Youth Service Corps** *NYSC Certificate Number: 005187467 *  * State Code: OG/ATB?2022/1996589 *    *📅(Jul 2022) *
+- **Jobberman Soft Skills**  - Coursera *75XH6BRGSEQS*  *📅(Oct 2023)*  
+- **National Youth Service Corps**   *NYSC Certificate Number: *005187467*  *State Code: *OG/ATB?2022/1996589* *📅(Jul 2022)*
 ---
 
 ## 💼 Work Experience  
