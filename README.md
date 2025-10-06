@@ -1,4 +1,4 @@
-<h1> 👋  Hi, I'm Jacob! <br/><a href="https://github.com/JacobEgagah">Data Scientist</a>, <a href="https://www.linkedin.com/in/JacobEgagah/">Data Analyst</a>, <a href="https://www.youtube.com/c/Jacoberic59">Statistician</a></h1>
+<h1> 👋  Hi, I'm Jacob! <br/><a href="https://github.com/JacobEgagah">Data Scientist</a>, <a href="https://www.linkedin.com/in/jacob-egagah">Data Analyst</a>, <a href="https://www.youtube.com/c/Jacoberic59">Statistician</a></h1>
 📍 Kaduna, Nigeria | 📧 jacobegagah@gmail.com  
 
 ---
@@ -74,7 +74,7 @@ Analytical problem solver with a strong Statistics background and a growing expe
 
 [twitter]: https://twitter.com/JacobEgagah
 [youtube]: https://www.youtube.com/c/JacobEgagah
-[instagram]: https://www.instagram.com/JacobEgagahr/
-[linkedin]: https://linkedin.com/in/JacobEgagah
+[instagram]: https://www.instagram.com/JacobEgagah/
+[linkedin]: https://www.linkedin.com/in/jacob-egagah
 
 
