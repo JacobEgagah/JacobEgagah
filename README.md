@@ -54,7 +54,7 @@ Analytical problem solver with a strong Statistics background and a growing expe
 ---
 
 ## 🧰 Skills  
-**Technical:** Python, SQL, ExcelI, Data Cleaning, Data Visualization, Statistics, Reporting  
+**Technical:** Python, SQL, Excel, Data Cleaning, Data Visualization, Statistics, Reporting  
 **Soft Skills:** Communication, Problem Solving, Critical Thinking, Team Collaboration  
 
 ---
